@@ -1,0 +1,35 @@
+Name,Smiles,Mol. Index,Active/Decoy,Source Database,"# Confs.",Pharmacophore Match,Score,Pharmacophore-Fit Score
+MNXM1107906_superoxide,O[O-],780,active,gen4.ldb,,M5,37.900063,37.9
+MNXM741004_tungstate,[W-].[OH-].[OH-].O.O,800,active,gen4.ldb,,M5,37.640686,37.64
+MNXM726092_molybdate,[Mo-].[OH-].[OH-].O.O,689,active,gen4.ldb,,M5,37.640686,37.64
+MNXM1094289_thiosulfate,S(S)(=O)(=O)[O-],791,active,gen4.ldb,,M5,37.10586,37.11
+"MNXM737997_(2R,3R)-tartrate",O[C@H]([C@@H](O)C(=O)[O-])C(=O)[O-],314,active,gen4.ldb,6,M5,36.966988,36.97
+MNXM222_glycolate,O=C([O-])CO,622,active,gen4.ldb,,M5,36.91583,36.92
+MNXM854_5-dehydro-4-deoxy-D-glucarate,O[C@H]([C@@H](O)CC(=O)C(=O)[O-])C(=O)[O-],538,active,gen4.ldb,23,M5,36.881046,36.88
+MNXM1101251_2-hydroxyglutarate,O[C@@H](C(=O)[O-])CCC(=O)[O-],649,active,gen4.ldb,16,M5,36.828136,36.83
+MNXM164710_D-erythronate,O[C@H]([C@H](O)CO)C(=O)[O-],70,active,gen4.ldb,6,M5,36.80915,36.81
+MNXM727604_(2R)-3-phosphoglycerate,P(=O)(OC[C@@H](O)C(=O)[O-])([O-])[O-],333,active,gen4.ldb,5,M5,36.804382,36.8
+MNXM732052_(R)-glycerate,O[C@@H](C(=O)[O-])CO,322,active,gen4.ldb,2,M5,36.776493,36.78
+MNXM1407_4-phospho-D-erythronate,P(=O)(OC[C@@H](O)[C@@H](O)C(=O)[O-])([O-])[O-],722,active,gen4.ldb,14,M5,36.760227,36.76
+"MNXM529_meso-2,6-diaminoheptanedioate",O=C([O-])[C@H]([NH3+])CCC[C@H]([NH3+])C(=O)[O-],674,active,gen4.ldb,84,M5,36.759064,36.76
+MNXM731835_(S)-lactate,O[C@H](C(=O)[O-])C,362,active,gen4.ldb,,M5,36.758347,36.76
+MNXM475_2-hydroxy-3-oxopropanoate,O=C([O-])[C@H](O)C=O,656,active,gen4.ldb,2,M5,36.74636,36.75
+MNXM730319_2(alpha-D-Mannosyl)-D-glycerate,O=C([O-])[C@@H](O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@@H]1O)CO)CO,434,active,gen4.ldb,12,M5,36.740837,36.74
+MNXM29_glycine,O=C([O-])C[NH3+],619,active,gen4.ldb,,M5,36.707504,36.71
+"MNXM726882_2-hydroxy-6-oxonona-2,4,7-triene-1,9-dioic acid",O=C(O)C(O)=CC=CC(=O)C=CC(=O)O,655,active,gen4.ldb,62,M5,36.655834,36.66
+MNXM331_D-glutamate,O=C([O-])[C@H]([NH3+])CCC(=O)[O-],75,active,gen4.ldb,17,M5,36.619545,36.62
+"MNXM733877_2-hydroxypenta-2,4-dienoic acid",O=C(O)C(O)=CC=C,657,active,gen4.ldb,4,M5,36.614143,36.61
+MNXM1177_4-phospho-L-aspartate,P(=O)(OC(=O)C[C@H]([NH3+])C(=O)[O-])([O-])[O-],726,active,gen4.ldb,76,M5,36.587902,36.59
+"MNXM741395_2,3-diaminopropanoic acid",O=C(O)[C@@H](N)CN,560,active,gen4.ldb,4,M5,36.5627,36.56
+MNXM361_L-aspartate 4-semialdehyde,O=C([O-])[C@@H]([NH3+])CC=O,176,active,gen4.ldb,9,M5,36.563164,36.56
+MNXM1107769_L-histidine,O=C([O-])[C@@H]([NH3+])Cc1nc[nH]c1,185,active,gen4.ldb,22,M5,36.563217,36.56
+"MNXM1107974_2-hydroxy-6-oxonona-2,4-dienedioic acid",O=C(O)C(O)=CC=CC(=O)CCC(=O)O,654,active,gen4.ldb,103,M5,36.554443,36.55
+MNXM731937_carboxyacetyl-[acyl-carrier protein],[*+9].SC(=O)CC(=O)O,489,active,gen4.ldb,7,M5,36.337746,36.34
+MNXM1565_L-idonate,O[C@@H]([C@H](O)[C@@H](O)CO)[C@@H](O)C(=O)[O-],193,active,gen4.ldb,22,M5,36.106686,36.11
+MNXM1608_(R)-malate,O[C@@H](C(=O)[O-])CC(=O)[O-],328,active,gen4.ldb,6,M5,36.047215,36.05
+MNXM735771_(R)-4'-phosphopantothenate,P(=O)(OCC([C@@H](O)C(=O)NCCC(=O)[O-])(C)C)([O-])[O-],336,active,gen4.ldb,256,M5,35.368702,35.37
+MNXM722743_N-(L-Arginino)succinate,O=C(O)[C@@H](NC(=N)NCCC[C@H](N)C(=O)O)CC(=O)O,224,active,gen4.ldb,261,M5,33.587585,33.59
+MNXM582_2-dehydro-D-gluconate,O[C@@H]([C@H](O)C(=O)C(=O)[O-])[C@H](O)CO,532,active,gen4.ldb,26,M5,26.640537,26.64
+MNXM138_carbamoyl phosphate,P(=O)(OC(=O)N)([O-])[O-],488,active,gen4.ldb,3,M5,26.637241,26.64
+MNXM1763_N-succinyl-L-glutamate 5-semialdehyde,O=C([O-])[C@@H](NC(=O)CCC(=O)[O-])CCC=O,250,active,gen4.ldb,60,M5,25.422758,25.42
+MNXM1757_N-succinyl-L-glutamate,O=C([O-])[C@@H](NC(=O)CCC(=O)[O-])CCC(=O)[O-],249,active,gen4.ldb,123,M5,25.411865,25.41

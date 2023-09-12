@@ -1,0 +1,39 @@
+Name,Smiles,Mol. Index,Active/Decoy,Source Database,"# Confs.",Pharmacophore Match,Score,Pharmacophore-Fit Score
+170 MNXM1107906 superoxide,O[O-],165,active,merged_limit.ldb,,M5,37.920273,37.92
+19 MNXM1094289 thiosulfate,S(S)(=O)(=O)[O-],13,active,merged_limit.ldb,,M5,37.14824,37.15
+"715 MNXM737997 (2R,3R)-tartrate",O[C@H]([C@@H](O)C(=O)[O-])C(=O)[O-],707,active,merged_limit.ldb,7,M5,36.896946,36.9
+529 MNXM727604 (2R)-3-phosphoglycerate,P(=O)(OC[C@@H](O)C(=O)[O-])([O-])[O-],522,active,merged_limit.ldb,10,M5,36.804684,36.8
+25 MNXM1101251 2-hydroxyglutarate,O[C@@H](C(=O)[O-])CCC(=O)[O-],19,active,merged_limit.ldb,18,M5,36.804802,36.8
+200 MNXM1170 3-dehydro-L-gulonate 6-phosphate,P(=O)(OC[C@H](O)[C@@H](O)C(=O)[C@H](O)C(=O)[O-])([O-])[O-],197,active,merged_limit.ldb,200,M5,36.78525,36.79
+261 MNXM1608 (R)-malate,O[C@@H](C(=O)[O-])CC(=O)[O-],255,active,merged_limit.ldb,7,M5,36.774563,36.77
+272 MNXM164710 D-erythronate,O[C@H]([C@H](O)CO)C(=O)[O-],266,active,merged_limit.ldb,6,M5,36.76921,36.77
+609 MNXM732052 (R)-glycerate,O[C@@H](C(=O)[O-])CO,602,active,merged_limit.ldb,3,M5,36.76134,36.76
+215 MNXM1275 D-methionine,S(CC[C@@H]([NH3+])C(=O)[O-])C,211,active,merged_limit.ldb,23,M5,36.75542,36.76
+"448 MNXM529 meso-2,6-diaminoheptanedioate",O=C([O-])[C@H]([NH3+])CCC[C@H]([NH3+])C(=O)[O-],442,active,merged_limit.ldb,85,M5,36.754997,36.75
+430 MNXM475 2-hydroxy-3-oxopropanoate,O[C@@H](C(=O)[O-])C=O,424,active,merged_limit.ldb,2,M5,36.732647,36.73
+"645 MNXM733877 2-hydroxypenta-2,4-dienoic acid",O=C(O)/C(/O)=C\C=C,638,active,merged_limit.ldb,3,M5,36.723755,36.72
+"518 MNXM726882 2-hydroxy-6-oxonona-2,4,7-triene-1,9-dioic acid",O=C(O)/C(/O)=C\C=C\C(=O)\C=C\C(=O)O,511,active,merged_limit.ldb,67,M5,36.718605,36.72
+367 MNXM331 D-glutamate,O=C([O-])[C@H]([NH3+])CCC(=O)[O-],362,active,merged_limit.ldb,22,M5,36.63241,36.63
+"173 MNXM1107974 2-hydroxy-6-oxonona-2,4-dienedioic acid",O=C(O)/C(/O)=C\C=C\C(=O)CCC(=O)O,168,active,merged_limit.ldb,93,M5,36.62241,36.62
+164 MNXM1107769 L-histidine,O=C([O-])[C@@H]([NH3+])Cc1nc[nH]c1,158,active,merged_limit.ldb,21,M5,36.61775,36.62
+710 MNXM737787 L-serine,O=C([O-])[C@@H]([NH3+])CO,702,active,merged_limit.ldb,4,M5,36.585075,36.59
+195 MNXM114087 (2S)-2-amino-3-oxobutanoate,O=C([O-])[C@@H]([NH3+])C(=O)C,189,active,merged_limit.ldb,8,M5,36.591835,36.59
+"834 MNXM90823 Fe(III)hydoxamate, unloaded",O=C(N[O-])[*+9],826,active,merged_limit.ldb,,M5,36.571106,36.57
+166 MNXM1107821 L-asparagine,O=C([O-])[C@@H]([NH3+])CC(=O)N,160,active,merged_limit.ldb,17,M5,36.57209,36.57
+120 MNXM1105731 D-alanine,O=C([O-])[C@H]([NH3+])C,114,active,merged_limit.ldb,2,M5,36.55731,36.56
+503 MNXM722743 N-(L-Arginino)succinate,O=C(O)[C@@H](NC(=N)NCCC[C@H](N)C(=O)O)CC(=O)O,498,active,merged_limit.ldb,132,M5,36.54853,36.55
+"423 MNXM455 2,3-dihydroxybenzoate",Oc1c(O)cccc1C(=O)[O-],417,active,merged_limit.ldb,,M5,36.28385,36.28
+257 MNXM1565 L-idonate,O[C@@H]([C@H](O)[C@@H](O)CO)[C@@H](O)C(=O)[O-],251,active,merged_limit.ldb,28,M5,36.198673,36.2
+848 MNXM963 5-dehydro-D-gluconate,O[C@H]([C@@H](O)C(=O)[O-])[C@H](O)C(=O)CO,840,active,merged_limit.ldb,31,M5,36.18264,36.18
+155 MNXM1107695 D-glucarate,O[C@@H]([C@H](O)[C@H](O)C(=O)[O-])[C@@H](O)C(=O)[O-],149,active,merged_limit.ldb,21,M5,36.18266,36.18
+716 MNXM738068 L-cysteine,SC[C@H]([NH3+])C(=O)[O-],708,active,merged_limit.ldb,5,M5,36.073765,36.07
+338 MNXM275 (2R)-2-phosphoglycerate,P(=O)(O[C@@H](C(=O)[O-])CO)([O-])[O-],334,active,merged_limit.ldb,14,M5,35.8358,35.84
+662 MNXM734864 (R)-pantothenate,O[C@@H](C(=O)NCCC(=O)[O-])C(CO)(C)C,656,active,merged_limit.ldb,142,M5,35.442352,35.44
+676 MNXM735771 (R)-4'-phosphopantothenate,P(=O)(OCC([C@@H](O)C(=O)NCCC(=O)[O-])(C)C)([O-])[O-],673,active,merged_limit.ldb,200,M5,35.426495,35.43
+642 MNXM733673 (S)-ureidoglycolate,O[C@H](NC(=O)N)C(=O)[O-],635,active,merged_limit.ldb,2,M5,34.176773,34.18
+248 MNXM1514 (R)-3-hydroxy-2-oxo-4-phosphooxybutanoate,P(=O)(OC[C@@H](O)C(=O)C(=O)[O-])([O-])[O-],242,active,merged_limit.ldb,23,M5,26.260078,26.26
+"586 MNXM730763 (1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate",P(=O)(OC[C@@H](O)[C@@H](O)c1c[nH]c2c1cccc2)([O-])[O-],579,active,merged_limit.ldb,65,M5,25.771267,25.77
+284 MNXM1757 N-succinyl-L-glutamate,O=C([O-])[C@@H](NC(=O)CCC(=O)[O-])CCC(=O)[O-],278,active,merged_limit.ldb,108,M5,25.553736,25.55
+283 MNXM1756 N(2)-succinyl-L-arginine,O=C([O-])[C@@H](NC(=O)CCC(=O)[O-])CCCNC(=[NH2+])N,282,active,merged_limit.ldb,200,M5,25.529716,25.53
+256 MNXM1563 (S)-2-succinylamino-6-oxoheptanedioate,O=C([O-])[C@@H](NC(=O)CCC(=O)[O-])CCCC(=O)C(=O)[O-],257,active,merged_limit.ldb,200,M5,25.444736,25.44
+196 MNXM1152 N(2)-succinyl-L-ornithine,O=C([O-])[C@@H](NC(=O)CCC(=O)[O-])CCC[NH3+],191,active,merged_limit.ldb,99,M5,25.442146,25.44
